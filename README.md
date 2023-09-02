@@ -3,6 +3,8 @@
 This project focused on detecting potential tax fraud from over 1 million NYC property records. By leveraging advanced unsupervised machine learning techniques, we aimed to uncover anomalies and unusual property valuations indicative of fraudulent activity.
 # Data Source
 The Property Valuation and Assessment Data of New York City were obtained from the NYC Open Data website.
+The data can be found here: https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
+
 # Dataset
 Total records: 1M+
 Features: 32 original variables from NYC property records
